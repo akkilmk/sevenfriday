@@ -1,0 +1,2 @@
+new WOW({mobile:!1,live:!1}).init(),console.log("WOW.JS initialized."),$(".sev-faq-item-toggle").click((function(e){e.preventDefault(),$(this).find(".sev-faq-item-title-arrow span").toggleClass("icon--arrow-top icon--arrow-down");var i=$(this).attr("href");$(i).fadeToggle()}));
+//# sourceMappingURL=/s/files/1/0423/3969/6794/t/14/assets/sev-animations.js.map?v=9845043729429575223

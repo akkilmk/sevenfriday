@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+    font-size: 20px;
+}
+.images__of__bird{
+    width: 300px;
+    height: auto;
+    background-size: cover;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+.image{
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    float: left;
+}
+.row{
+    width: 2500px;
+
+    height: 1600px;
+}

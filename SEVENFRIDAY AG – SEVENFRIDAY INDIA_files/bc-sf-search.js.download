@@ -1,0 +1,2 @@
+var bcSfSearchSettings={search:{}};BCSfFilter.prototype.customizeSuggestion=function(e,t,r){},BCSfFilter.prototype.buildSearchResultNumber=function(e){var t="";var r=this.escape(this.getSearchTerm());null!=r&&(t=bcSfFilterConfig.label.search_result_number_other,1==e.total_product&&(t=bcSfFilterConfig.label.search_result_number_one),t=t.replace(/{{ count }}/g,e.total_product).replace(/{{ search_terms }}/g,r)),jQ("."+this.class.searchResultNumber).html(t)};
+//# sourceMappingURL=/s/files/1/0423/3969/6794/t/14/assets/bc-sf-search.js.map?v=10326406781248266109
